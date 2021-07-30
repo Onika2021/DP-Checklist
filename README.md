@@ -15,13 +15,13 @@ When there is an hurricane warning or watch, the relevant authorities/bodies can
  Researched online for datasets to use 
  Extracted Database into Excel for analysis
  Cleaned dataset using Excel Formulas and Functions
- Connected Database
+ Analyzed using Power BI
+ Connected to mysql atabase using php
 
 
 **Challenges we ran into**
 
 It got a bit overwhelming working on this project, studying for the courses, attending the classes and still maintaining a full work/school schedule and balancing family time.
-
 It was a bit difficult to find datasets to analyze for individual preparedness 
 The datasets about the political representatives was not organized well and there was a lot of formatting and organization to be able to have clean data.
 Other datasets that we planned to incorporate were not added as it was time consuming to format
@@ -30,7 +30,7 @@ Other datasets that we planned to incorporate were not added as it was time cons
 
 We were able to apply the skills we learnt in preparing data for analysis and providing an analysis. 
 
-**What I learned**
+**What we learned**
 Data cleaning can be time consuming
 The relevant data is not necessarily easily obtained 
 We have to do what is necessary to achieve results
